@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-I have made this project using HTM;L ,CSS, JS.
+I have made this project using HTML ,CSS, JS.
